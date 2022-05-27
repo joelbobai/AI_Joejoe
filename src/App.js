@@ -8,7 +8,6 @@ import alanBtn from '@alan-ai/alan-sdk-web';
 
 import wordsToNumber from 'words-to-numbers';
 
-import NewsCards from'./components/NewsCards/NewsCards';
 
 import useStyles from './styles.js';
 
